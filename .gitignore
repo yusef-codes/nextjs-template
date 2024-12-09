@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/.afile.pub
+/afile.pub
 
 # testing
 /coverage
